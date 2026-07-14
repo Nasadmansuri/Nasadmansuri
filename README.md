@@ -37,6 +37,10 @@
 
 If Whispr or any of my projects have been useful to you, consider supporting my journey as a student developer. Every contribution helps me keep building, learning, and shipping.
 
+<details>
+<summary><b>☕ Click here to support me</b></summary>
+<br/>
+
 <table align="center">
   <tr>
     <td align="center">
@@ -49,3 +53,5 @@ If Whispr or any of my projects have been useful to you, consider supporting my 
     </td>
   </tr>
 </table>
+
+</details>
