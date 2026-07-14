@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasadmansuri" alt="nasadmansuri" /></a> </p>
 
-- 🔭 I'm currently working on [Whispr](https://github.com/Nasadmansuri/whispr)
+- 🔭 I'm currently working on [Whispr](https://whisprapp.pythonanywhere.com/)
 
 - 🌱 I’m currently learning **MongoDB, Express, React & Node (MERN)**
 
