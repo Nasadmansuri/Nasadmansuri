@@ -40,12 +40,12 @@ If Whispr or any of my projects have been useful to you, consider supporting my 
 <table>
   <tr>
     <td align="center">
-      <img src="assets/esewa-qr.jpeg" width="160"/><br/>
+      <img src="esewa-qr.jpeg" width="160"/>
       <b>eSewa</b><br/>
       <code>9816749249</code>
     </td>
     <td align="center">
-      <img src="assets/khalti-qr.jpeg" width="160"/><br/>
+      <img src="khalti-qr.jpeg" width="160"/><br/>
       <b>Khalti</b><br/>
       <code>9816749249</code>
     </td>
