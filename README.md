@@ -37,17 +37,15 @@
 
 If Whispr or any of my projects have been useful to you, consider supporting my journey as a student developer. Every contribution helps me keep building, learning, and shipping.
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
-      <img src="esewa-qr.jpeg" width="160"/>
-      <b>eSewa</b><br/>
-      <code>9816749249</code>
+      <img src="esewa-qr.jpeg" width="180"/><br/>
+      <b>eSewa</b>
     </td>
     <td align="center">
-      <img src="khalti-qr.jpeg" width="160"/><br/>
-      <b>Khalti</b><br/>
-      <code>9816749249</code>
+      <img src="khalti-qr.jpeg" width="180"/><br/>
+      <b>Khalti</b>
     </td>
   </tr>
 </table>
