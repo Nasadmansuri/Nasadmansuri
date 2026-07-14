@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasadmansuri" alt="nasadmansuri" /></a> </p>
 
-- 🔭 I’m currently working on [Whispr](github.com/Nasadmansuri/whispr)
+- 🔭 I'm currently working on [Whispr](https://github.com/Nasadmansuri/whispr)
 
 - 🌱 I’m currently learning **MongoDB, Express, React & Node (MERN)**
 
 - 👯 I’m looking to collaborate on **Django + React full-stack projects**
 
-- 👨‍💻 All of my projects are available at [github.com/Nasadmansuri](github.com/Nasadmansuri)
+- 👨‍💻 All of my projects are available at [github.com/Nasadmansuri](https://github.com/Nasadmansuri)
 
 - 💬 Ask me about **Django, React, MERN**
 
